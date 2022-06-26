@@ -1,22 +1,18 @@
 # Android-Pemula-Submission-Dicoding
 This is a Simple Android App for dicoding Android Pemula Submission
 
-> Splash Screen
+> Splash Screen & Home Screen
 
-![Splash Screen](./Screenshot/splash_screen.png)
+<img src="./Screenshot/splash_screen.png" width=40% height=40%><img style="margin-left: 20px" src="./Screenshot/home_screen.png" width=40% height=40%>
 
-> Home Screen
+> Detail Screen & About Screen
 
-![Home Screen](./Screenshot/home_screen.png)
+<img src="./Screenshot/detail_screen.png"  width=40% height=40%>
+<img src="./Screenshot/about_screen.png"
+style="margin-left:20px" width=40% height=40%>
 
-> Detail Screen
 
-![Home Screen](./Screenshot/detail_screen.png)
-
-> About Screen
-
-![Home Screen](./Screenshot/about_screen.png)
 
 > Portofolio Screen (Web View)
 
-![Portofolio Screen](./Screenshot/webview_screen.png)
+<img src="./Screenshot/webview_screen.png" width=40% height=40%>
