@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hafifamudi/AndroidStudioProjects/AndroidPemulaSubmission/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/hafifamudi/AndroidStudioProjects/AndroidPemulaSubmission/app/src/main/res/drawable-v24/logo_main_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/hafifamudi/AndroidStudioProjects/AndroidPemulaSubmission/app/src/main/res/drawable/bg_color.xml" value="0.1285" />
+        <entry key="..\:/Users/hafifamudi/AndroidStudioProjects/AndroidPemulaSubmission/app/src/main/res/drawable/button_bg.xml" value="0.1285" />
+        <entry key="..\:/Users/hafifamudi/AndroidStudioProjects/AndroidPemulaSubmission/app/src/main/res/drawable/card_bg.xml" value="0.1285" />
+        <entry key="..\:/Users/hafifamudi/AndroidStudioProjects/AndroidPemulaSubmission/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.1285" />
+        <entry key="..\:/Users/hafifamudi/AndroidStudioProjects/AndroidPemulaSubmission/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.108" />
+        <entry key="..\:/Users/hafifamudi/AndroidStudioProjects/AndroidPemulaSubmission/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/hafifamudi/AndroidStudioProjects/AndroidPemulaSubmission/app/src/main/res/drawable/logo_main_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/hafifamudi/AndroidStudioProjects/AndroidPemulaSubmission/app/src/main/res/drawable/person_bg.xml" value="0.108" />
+        <entry key="..\:/Users/hafifamudi/AndroidStudioProjects/AndroidPemulaSubmission/app/src/main/res/drawable/splash_background.xml" value="0.1285" />
+        <entry key="..\:/Users/hafifamudi/AndroidStudioProjects/AndroidPemulaSubmission/app/src/main/res/layout/activity_author_about.xml" value="0.25" />
+        <entry key="..\:/Users/hafifamudi/AndroidStudioProjects/AndroidPemulaSubmission/app/src/main/res/layout/activity_detail_hotel.xml" value="0.25" />
+        <entry key="..\:/Users/hafifamudi/AndroidStudioProjects/AndroidPemulaSubmission/app/src/main/res/layout/activity_list_hotel.xml" value="0.17" />
+        <entry key="..\:/Users/hafifamudi/AndroidStudioProjects/AndroidPemulaSubmission/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/hafifamudi/AndroidStudioProjects/AndroidPemulaSubmission/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/hafifamudi/AndroidStudioProjects/AndroidPemulaSubmission/app/src/main/res/layout/activity_web_view.xml" value="0.1" />
+        <entry key="..\:/Users/hafifamudi/AndroidStudioProjects/AndroidPemulaSubmission/app/src/main/res/layout/item_hotel_detail.xml" value="0.33" />
+        <entry key="..\:/Users/hafifamudi/AndroidStudioProjects/AndroidPemulaSubmission/app/src/main/res/layout/item_hotel_list.xml" value="0.25" />
+        <entry key="..\:/Users/hafifamudi/AndroidStudioProjects/AndroidPemulaSubmission/app/src/main/res/layout/item_hotel_list_tw.xml" value="0.25" />
+        <entry key="..\:/Users/hafifamudi/AndroidStudioProjects/AndroidPemulaSubmission/app/src/main/res/layout/item_hotel_list_two.xml" value="0.6995884773662552" />
+        <entry key="..\:/Users/hafifamudi/AndroidStudioProjects/AndroidPemulaSubmission/app/src/main/res/mipmap-anydpi-v26/logo_main.xml" value="0.1" />
+        <entry key="..\:/Users/hafifamudi/AndroidStudioProjects/AndroidPemulaSubmission/app/src/main/res/mipmap-anydpi-v26/logo_main_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

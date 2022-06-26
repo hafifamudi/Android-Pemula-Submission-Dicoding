@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".ListHotelActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="20dp">
+            <Button
+                android:id="@+id/about_me"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/person_bg"
+                android:layout_gravity="end"
+                android:drawableRight="@drawable/ic_baseline_person_24"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="24sp"
+                android:textColor="@color/primaryTextColor"
+                android:text="Discover"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:layout_marginTop="30dp"
+                android:textColor="@color/secondaryTextColor"
+                android:text="Find the great moments"/>
+        </FrameLayout>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The beauty Hotels "
+            android:textColor="@color/secondaryTextColor"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rv_hotels"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:listitem="@layout/item_hotel_list"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Hotels you love"
+            android:textColor="@color/secondaryTextColor"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rv_hotels_two"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:listitem="@layout/item_hotel_list_tw"/>
+    </LinearLayout>
+
+</ScrollView>
